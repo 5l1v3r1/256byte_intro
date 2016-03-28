@@ -141,4 +141,4 @@ NOPIXEL	add	si,byte 4
 
 TEXT	db	"Paradox",0	
 	db	"by",0
-	db	"Azizjon Mamashoev",0
+	db	"xStyle",0
